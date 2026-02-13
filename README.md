@@ -266,13 +266,7 @@ After completing this project:
 
 ## Collaborator
 
-### Sumyah Monir Mithy
-
-* Core system architecture
-* Stack and queue integration
-* Linked list implementation
-* Visualization logic
-* Revenue calculation system
+### Sumyah Monir Mithy - All
 
 ---
 
